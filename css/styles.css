@@ -5,3 +5,7 @@ img {
 .important {
   font-weight: bold;
 }
+
+.panel-title {
+  font-weight: bold;
+}
