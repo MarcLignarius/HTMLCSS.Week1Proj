@@ -9,3 +9,16 @@ img {
 .panel-title {
   font-weight: bold;
 }
+
+.topnav a {
+  float: left;
+  color: black;
+  padding: 14px 16px;
+  font-size: 17px;
+  font-family: Arial;
+}
+
+.cascading p {
+  background-color: black;
+  color:white;
+}
