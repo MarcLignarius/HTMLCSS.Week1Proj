@@ -19,6 +19,14 @@ img {
 }
 
 .cascading p {
-  background-color: black;
-  color:white;
+  background-color: #63B5EA;
+  color: #333333;
+}
+
+.box {
+  margin: 12px;
+  border: 2px solid #DDDDDD;
+  color: #333333
+  padding: 4px;
+  background-color: #F5F5F5;
 }
