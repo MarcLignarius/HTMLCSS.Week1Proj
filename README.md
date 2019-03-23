@@ -12,6 +12,7 @@ _Website showcasing my portfolio of projects and a little bit about me._
 
 * _Clone the file from GitHub_
 * _Open the file and double click index.html_
+* _Alternatively launch https://marclignarius.github.io/Portfolio/_
 
 ## Support and contact details
 
